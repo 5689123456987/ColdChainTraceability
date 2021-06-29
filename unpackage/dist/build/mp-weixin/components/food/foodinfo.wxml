@@ -1,0 +1,1 @@
+<view style="padding:20rpx;"><block wx:for="{{food}}" wx:for-item="item" wx:for-index="index" wx:key="foodId"><view><view style="font-size:35rpx;">{{''+item.foodName+''}}</view><view style="margin:30rpx 0 30rpx 0;">{{''+item.foodBirthDate+''}}</view></view></block></view>

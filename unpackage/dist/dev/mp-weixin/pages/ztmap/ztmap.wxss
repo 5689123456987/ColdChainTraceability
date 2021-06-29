@@ -1,0 +1,12 @@
+
+.main{
+	/* background-color: #ffffff; */
+}
+.wrap {
+	width: 100%;
+	height: 650rpx;
+}
+page{
+	/* background-color: #FFFFFF; */
+}
+

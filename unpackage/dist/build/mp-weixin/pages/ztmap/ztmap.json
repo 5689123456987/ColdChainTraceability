@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "usingComponents": {
+    "mpvue-echarts": "/components/mpvue-echarts/src/echarts",
+    "mapinfo": "/components/common/mapinfo"
+  }
+}

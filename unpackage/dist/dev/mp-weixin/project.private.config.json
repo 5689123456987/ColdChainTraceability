@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "news",
+          "pathName": "pages/newlflex/newlflex",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/ztmap/ztmap",
+          "pathName": "pages/ztmap/ztmap",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

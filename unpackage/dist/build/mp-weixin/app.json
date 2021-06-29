@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/ztmap/ztmap",
+    "pages/shop/shop",
+    "pages/trace/trace"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#434AF9",
+    "backgroundColor": "#434AF9"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "疫情数据展示"
+    }
+  },
+  "plugins": {
+    "mypluins": {
+      "version": "1.0.6",
+      "provider": "wx76a9a06e5b4e693e"
+    }
+  },
+  "requiredBackgroundModes": [
+    "location"
+  ],
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

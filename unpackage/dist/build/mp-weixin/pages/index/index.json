@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "usingComponents": {
+    "tab-game": "/components/tabBar/first",
+    "tab-data": "/components/tabBar/third",
+    "tab-mycenter": "/components/tabBar/five"
+  }
+}

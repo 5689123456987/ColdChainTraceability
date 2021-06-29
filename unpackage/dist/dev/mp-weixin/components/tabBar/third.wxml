@@ -1,0 +1,1 @@
+<view class="main"><scroll-view class="main_box" scroll-y="true" data-event-opts="{{[['scrolltolower',[['lower',['$event']]]]]}}" bindscrolltolower="__e"><block wx:if="{{infostate}}"><view><view data-event-opts="{{[['getuserinfo',[['getUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">2</view></view></block></scroll-view></view>

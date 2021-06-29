@@ -1,0 +1,1 @@
+<view><cu-custom vue-id="73adca00-1" bgColor="navititle" isBack="{{true}}" bind:__l="__l" vue-slots="{{['backText','content']}}"><view slot="backText">冷链溯源</view><view slot="content"></view></cu-custom><coldshop vue-id="73adca00-2" bind:__l="__l"></coldshop></view>

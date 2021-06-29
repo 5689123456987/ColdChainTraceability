@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "bounce": "none",
+  "usingComponents": {
+    "coldshop": "/components/common/coldshop"
+  }
+}

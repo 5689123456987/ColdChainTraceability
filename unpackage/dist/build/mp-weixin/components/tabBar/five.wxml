@@ -1,0 +1,1 @@
+<view class="main"><scroll-view class="main_box" scroll-y="true" data-event-opts="{{[['scrolltolower',[['lower',['$event']]]]]}}" bindscrolltolower="__e"><view class="main_centent"><image style="width:100%;height:100%;" src="../../static/img/a-assets/a.png"></image></view></scroll-view></view>

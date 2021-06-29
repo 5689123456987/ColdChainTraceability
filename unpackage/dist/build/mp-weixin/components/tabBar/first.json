@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "coldsearchinfo": "/components/coldsearchinfo/coldsearchinfo",
+    "indexmap": "/components/map/indexmap/indexmap",
+    "foodinfo": "/components/food/foodinfo"
+  }
+}

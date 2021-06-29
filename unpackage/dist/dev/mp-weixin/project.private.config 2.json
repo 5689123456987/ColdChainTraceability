@@ -1,0 +1,23 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "map",
+          "pathName": "pages/ztmap/ztmap",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "searchinput": "/components/coldsearchinfo/searchinput",
+    "foodinfo": "/components/food/foodinfo"
+  }
+}
